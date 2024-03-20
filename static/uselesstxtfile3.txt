@@ -1,0 +1,3 @@
+this file will not be ignored as this file or its parent folder is not added in the ignore list.
+
+this is modified.
